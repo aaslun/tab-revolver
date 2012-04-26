@@ -23,8 +23,8 @@ $(function(){
             .hide();
         $tabsList.animate({
            height : '+='+43
-        }, function(){
-            $tabsList.append($newTabItem.fadeIn());
+        }, 100, function(){
+            $tabsList.append($newTabItem.fadeIn('fast'));
         });
 
     });
