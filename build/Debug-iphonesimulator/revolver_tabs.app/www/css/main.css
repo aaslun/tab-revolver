@@ -7,3 +7,7 @@ span.info {
 span.center {
     text-align: center;
 }
+
+#tabs_list {
+    margin-bottom: 20px;
+}

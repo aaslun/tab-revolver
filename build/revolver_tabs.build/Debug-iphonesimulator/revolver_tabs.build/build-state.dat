@@ -1,13 +1,13 @@
 Trevolver_tabs
 v7
 r0
-t357129003.388589
+t357141244.972796
 cCheck dependencies
-cProcessInfoPlistFile /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/revolver_tabs.app/Info.plist revolver_tabs-Info.plist
-cPhaseScriptExecution "Touch www folder" /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/Script-304B58A110DAC018002A0835.sh
+cProcessInfoPlistFile /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app/Info.plist revolver_tabs-Info.plist
+cPhaseScriptExecution "Touch www folder" /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/Script-304B58A110DAC018002A0835.sh
 cCpResource build/Debug-iphonesimulator/revolver_tabs.app/www www
 cCpResource build/Debug-iphonesimulator/revolver_tabs.app/VERSION /Users/andreaslundgren/Documents/PhoneGapLib/VERSION
-cCopyPlistFile /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/revolver_tabs.app/PhoneGap.plist PhoneGap.plist
+cCopyPlistFile /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app/PhoneGap.plist PhoneGap.plist
 cCpResource build/Debug-iphonesimulator/revolver_tabs.app/PhoneGapBuildSettings.xcconfig PhoneGapBuildSettings.xcconfig
 cCpResource build/Debug-iphonesimulator/revolver_tabs.app/icon-72.png Resources/icons/icon-72.png
 cCpResource build/Debug-iphonesimulator/revolver_tabs.app/icon.png Resources/icons/icon.png
@@ -17,14 +17,14 @@ cCpResource build/Debug-iphonesimulator/revolver_tabs.app/Default-Portrait.png R
 cCpResource build/Debug-iphonesimulator/revolver_tabs.app/Default.png Resources/splash/Default.png
 cCpResource build/Debug-iphonesimulator/revolver_tabs.app/Default@2x.png Resources/splash/Default@2x.png
 cCpResource build/Debug-iphonesimulator/revolver_tabs.app/Capture.bundle Resources/Capture.bundle
-cCopyStringsFile /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/revolver_tabs.app/en.lproj/Localizable.strings Resources/en.lproj/Localizable.strings
-cCopyStringsFile /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/revolver_tabs.app/es.lproj/Localizable.strings Resources/es.lproj/Localizable.strings
-cProcessPCH /var/folders/8v/wv_krcjx25d3d1wt8xbz_zxw0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/revolver_tabs-Prefix-fiymerawxtstrceddelmkyyxzboz/revolver_tabs-Prefix.pch.gch revolver_tabs-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
-cCompileC build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/Objects-normal/i386/main.o /Applications/MAMP/htdocs/phonegapps/revolver_tabs/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
-cCompileC build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/Objects-normal/i386/AppDelegate.o /Applications/MAMP/htdocs/phonegapps/revolver_tabs/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
-cLd /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/revolver_tabs.app/revolver_tabs normal i386
-cGenerateDSYMFile /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/revolver_tabs.app.dSYM /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/revolver_tabs.app/revolver_tabs
-cTouch /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/revolver_tabs.app
+cCopyStringsFile /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app/en.lproj/Localizable.strings Resources/en.lproj/Localizable.strings
+cCopyStringsFile /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app/es.lproj/Localizable.strings Resources/es.lproj/Localizable.strings
+cProcessPCH /var/folders/8v/wv_krcjx25d3d1wt8xbz_zxw0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/revolver_tabs-Prefix-dzsssgygnjwseodugqqugrxvfirs/revolver_tabs-Prefix.pch.gch revolver_tabs-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/Objects-normal/i386/main.o /Applications/MAMP/htdocs/phonegapps/tab-revolver/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/Objects-normal/i386/AppDelegate.o /Applications/MAMP/htdocs/phonegapps/tab-revolver/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cLd /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app/revolver_tabs normal i386
+cGenerateDSYMFile /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app.dSYM /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app/revolver_tabs
+cTouch /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app
 
 N/Applications/MAMP/htdocs/phonegapps/revolver_tabs/Classes/AppDelegate.h
 c000000004F9910B800000000000002A1
@@ -214,6 +214,194 @@ c000000004F9917A800000000000000CC
 t1335433128
 s204
 
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/Classes/AppDelegate.h
+c000000004F9910B800000000000002A1
+t1335431352
+s673
+i<UIKit/UIKit.h>
+i<PhoneGap/PhoneGapDelegate.h>
+i"PhoneGapDelegate.h"
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/Classes/AppDelegate.m
+c000000004F9910B80000000000000D2D
+t1335431352
+s3373
+i"AppDelegate.h"
+i<PhoneGap/PhoneGapViewController.h>
+i"PhoneGapViewController.h"
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/PhoneGap.plist
+c000000004F9910B800000000000005C5
+t1335431352
+s1477
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/PhoneGapBuildSettings.xcconfig
+c000000004F9910B800000000000000C7
+t1335431352
+s199
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/Resources/Capture.bundle
+c000000004F9910B80000000000000242
+t1335431352
+s578
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/Resources/en.lproj/Localizable.strings
+c000000004F9910B80000000000000248
+t1335431352
+s584
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/Resources/es.lproj/Localizable.strings
+c000000004F9910B80000000000000254
+t1335431352
+s596
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/Resources/icons/icon-72.png
+c000000004F9910B800000000000013B9
+t1335431352
+s5049
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/Resources/icons/icon.png
+c000000004F9910B80000000000000C36
+t1335431352
+s3126
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/Resources/icons/icon@2x.png
+c000000004F9910B800000000000014DC
+t1335431352
+s5340
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/Resources/splash/Default-Landscape.png
+c000000004F9910B80000000000007340
+t1335431352
+s29504
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/Resources/splash/Default-Portrait.png
+c000000004F9910B80000000000005E91
+t1335431352
+s24209
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/Resources/splash/Default.png
+c000000004F9910B800000000000033AA
+t1335431352
+s13226
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/Resources/splash/Default@2x.png
+c000000004F9910B80000000000007F9A
+t1335431352
+s32666
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app
+t1335448368
+s646
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app.dSYM
+t1335438435
+s102
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app/Capture.bundle
+t1335431748
+s578
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app/Default-Landscape.png
+t1335431748
+s29504
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app/Default-Portrait.png
+t1335431748
+s24209
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app/Default.png
+t1335431748
+s13226
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app/Default@2x.png
+t1335431748
+s32666
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app/Info.plist
+t1335431748
+s964
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app/PhoneGap.plist
+t1335431749
+s885
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app/PhoneGapBuildSettings.xcconfig
+t1335431748
+s199
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app/PkgInfo
+t1335431748
+s8
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app/VERSION
+t1335431748
+s13
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app/en.lproj/Localizable.strings
+t1335431749
+s142
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app/es.lproj/Localizable.strings
+t1335431749
+s308
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app/icon-72.png
+t1335431748
+s5049
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app/icon.png
+t1335431748
+s3126
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app/icon@2x.png
+t1335431748
+s5340
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app/revolver_tabs
+t1335438435
+s486808
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app/www
+t1335448368
+s204
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/Objects-normal/i386/AppDelegate.o
+t1335438434
+s45616
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/Objects-normal/i386/main.o
+t1335438434
+s3292
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/Objects-normal/i386/revolver_tabs.LinkFileList
+c000000004F992C600000000000000129
+t1335438432
+s297
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/Script-304B58A110DAC018002A0835.sh
+c000000004F9912440000000000000027
+t1335431748
+s39
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/main.m
+c000000004F9910B80000000000000181
+t1335431352
+s385
+i<UIKit/UIKit.h>
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/revolver_tabs-Prefix.pch
+c000000004F9910B800000000000000C3
+t1335431352
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Applications/MAMP/htdocs/phonegapps/tab-revolver/www
+c000000004F99532F00000000000000CC
+t1335448367
+s204
+
 N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
 c000000004D5C9B4E0000000000000110
 t1297914702
@@ -371,6 +559,10 @@ c000000004F991244000000000014E360
 t1335431748
 s1368928
 
+N/var/folders/8v/wv_krcjx25d3d1wt8xbz_zxw0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/revolver_tabs-Prefix-dzsssgygnjwseodugqqugrxvfirs/revolver_tabs-Prefix.pch.gch
+t1335438434
+s12262832
+
 N/var/folders/8v/wv_krcjx25d3d1wt8xbz_zxw0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/revolver_tabs-Prefix-fiymerawxtstrceddelmkyyxzboz/revolver_tabs-Prefix.pch.gch
 t1335431749
 s12262832
@@ -382,7 +574,7 @@ s1480
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies357129001#357129001#0(0"0(0#1#0"4448009648#0"0#
+lSLF07#2@18"Check dependencies357141244#357141244#0(0"0(0#1#0"4463558064#0"0#
 
 CCompileC build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/Objects-normal/i386/AppDelegate.o /Applications/MAMP/htdocs/phonegapps/revolver_tabs/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
 s357124550.075864
@@ -397,6 +589,19 @@ xobjective-c
 xcom.apple.compilers.llvmgcc42
 lSLF07#2@80"Compile /Applications/MAMP/htdocs/phonegapps/revolver_tabs/Classes/AppDelegate.m357124550#357124550#0(0"0(0#0#72"/Applications/MAMP/htdocs/phonegapps/revolver_tabs/Classes/AppDelegate.m4509630096#2376"    cd /Applications/MAMP/htdocs/phonegapps/revolver_tabs    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/revolver_tabs-generated-files.hmap -I/Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/revolver_tabs-own-target-headers.hmap -I/Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/revolver_tabs-all-target-headers.hmap -iquote /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/revolver_tabs-project-headers.hmap -F/Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator -iquote/Users/andreaslundgren/Documents/PhoneGapLib/Classes/JSON -iquote/Users/andreaslundgren/Documents/PhoneGapLib/Classes -I/Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/include -I/Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/DerivedSources/i386 -I/Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/DerivedSources -include /var/folders/8v/wv_krcjx25d3d1wt8xbz_zxw0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/revolver_tabs-Prefix-fiymerawxtstrceddelmkyyxzboz/revolver_tabs-Prefix.pch -c /Applications/MAMP/htdocs/phonegapps/revolver_tabs/Classes/AppDelegate.m -o /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/Objects-normal/i386/AppDelegate.o0#
 
+CCompileC build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/Objects-normal/i386/AppDelegate.o /Applications/MAMP/htdocs/phonegapps/tab-revolver/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s357131234.368137
+e357131234.660829
+r1
+xCompileC
+xbuild/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/Objects-normal/i386/AppDelegate.o
+x/Applications/MAMP/htdocs/phonegapps/tab-revolver/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@79"Compile /Applications/MAMP/htdocs/phonegapps/tab-revolver/Classes/AppDelegate.m357131234#357131234#0(0"0(0#0#71"/Applications/MAMP/htdocs/phonegapps/tab-revolver/Classes/AppDelegate.m4463558288#2365"    cd /Applications/MAMP/htdocs/phonegapps/tab-revolver    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/revolver_tabs-generated-files.hmap -I/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/revolver_tabs-own-target-headers.hmap -I/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/revolver_tabs-all-target-headers.hmap -iquote /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/revolver_tabs-project-headers.hmap -F/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator -iquote/Users/andreaslundgren/Documents/PhoneGapLib/Classes/JSON -iquote/Users/andreaslundgren/Documents/PhoneGapLib/Classes -I/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/include -I/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/DerivedSources/i386 -I/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/DerivedSources -include /var/folders/8v/wv_krcjx25d3d1wt8xbz_zxw0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/revolver_tabs-Prefix-dzsssgygnjwseodugqqugrxvfirs/revolver_tabs-Prefix.pch -c /Applications/MAMP/htdocs/phonegapps/tab-revolver/Classes/AppDelegate.m -o /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/Objects-normal/i386/AppDelegate.o0#
+
 CCompileC build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/Objects-normal/i386/main.o /Applications/MAMP/htdocs/phonegapps/revolver_tabs/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
 s357124550.074790
 e357124550.133785
@@ -410,6 +615,19 @@ xobjective-c
 xcom.apple.compilers.llvmgcc42
 lSLF07#2@65"Compile /Applications/MAMP/htdocs/phonegapps/revolver_tabs/main.m357124550#357124550#0(0"0(0#0#57"/Applications/MAMP/htdocs/phonegapps/revolver_tabs/main.m4509630096#2354"    cd /Applications/MAMP/htdocs/phonegapps/revolver_tabs    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/revolver_tabs-generated-files.hmap -I/Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/revolver_tabs-own-target-headers.hmap -I/Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/revolver_tabs-all-target-headers.hmap -iquote /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/revolver_tabs-project-headers.hmap -F/Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator -iquote/Users/andreaslundgren/Documents/PhoneGapLib/Classes/JSON -iquote/Users/andreaslundgren/Documents/PhoneGapLib/Classes -I/Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/include -I/Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/DerivedSources/i386 -I/Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/DerivedSources -include /var/folders/8v/wv_krcjx25d3d1wt8xbz_zxw0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/revolver_tabs-Prefix-fiymerawxtstrceddelmkyyxzboz/revolver_tabs-Prefix.pch -c /Applications/MAMP/htdocs/phonegapps/revolver_tabs/main.m -o /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/Objects-normal/i386/main.o0#
 
+CCompileC build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/Objects-normal/i386/main.o /Applications/MAMP/htdocs/phonegapps/tab-revolver/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s357131234.366573
+e357131234.660663
+r1
+xCompileC
+xbuild/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/Objects-normal/i386/main.o
+x/Applications/MAMP/htdocs/phonegapps/tab-revolver/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@64"Compile /Applications/MAMP/htdocs/phonegapps/tab-revolver/main.m357131234#357131234#0(0"0(0#0#56"/Applications/MAMP/htdocs/phonegapps/tab-revolver/main.m4463558288#2343"    cd /Applications/MAMP/htdocs/phonegapps/tab-revolver    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/revolver_tabs-generated-files.hmap -I/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/revolver_tabs-own-target-headers.hmap -I/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/revolver_tabs-all-target-headers.hmap -iquote /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/revolver_tabs-project-headers.hmap -F/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator -iquote/Users/andreaslundgren/Documents/PhoneGapLib/Classes/JSON -iquote/Users/andreaslundgren/Documents/PhoneGapLib/Classes -I/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/include -I/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/DerivedSources/i386 -I/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/DerivedSources -include /var/folders/8v/wv_krcjx25d3d1wt8xbz_zxw0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/revolver_tabs-Prefix-dzsssgygnjwseodugqqugrxvfirs/revolver_tabs-Prefix.pch -c /Applications/MAMP/htdocs/phonegapps/tab-revolver/main.m -o /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/Objects-normal/i386/main.o0#
+
 CCopyPlistFile /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/revolver_tabs.app/PhoneGap.plist PhoneGap.plist
 s357124548.158753
 e357124549.247134
@@ -419,6 +637,9 @@ x/Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/
 xPhoneGap.plist
 o/Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist:77: warning: Insecure world writable dir /usr/local/bin in PATH, mode 040777
 lSLF07#2@19"Copy PhoneGap.plist357124548#357124549#0(164"/Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist:77: warning: Insecure world writable dir /usr/local/bin in PATH, mode 0407770(0#0#65"/Applications/MAMP/htdocs/phonegapps/revolver_tabs/PhoneGap.plist4509630096#481"    cd /Applications/MAMP/htdocs/phonegapps/revolver_tabs    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 PhoneGap.plist --outdir /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/revolver_tabs.app0#
+
+CCopyPlistFile /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app/PhoneGap.plist PhoneGap.plist
+r0
 
 CCopyStringsFile /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/revolver_tabs.app/en.lproj/Localizable.strings Resources/en.lproj/Localizable.strings
 s357124548.677222
@@ -439,6 +660,12 @@ x/Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/
 xResources/es.lproj/Localizable.strings
 o/Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings:125: warning: Insecure world writable dir /usr/local/bin in PATH, mode 040777
 lSLF07#2@43"Copy Resources/es.lproj/Localizable.strings357124549#357124549#0(167"/Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings:125: warning: Insecure world writable dir /usr/local/bin in PATH, mode 0407770(0#0#89"/Applications/MAMP/htdocs/phonegapps/revolver_tabs/Resources/es.lproj/Localizable.strings4509630096#587"    cd /Applications/MAMP/htdocs/phonegapps/revolver_tabs    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary Resources/es.lproj/Localizable.strings --outdir /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/revolver_tabs.app/es.lproj0#
+
+CCopyStringsFile /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app/en.lproj/Localizable.strings Resources/en.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app/es.lproj/Localizable.strings Resources/es.lproj/Localizable.strings
+r0
 
 CCpResource build/Debug-iphonesimulator/revolver_tabs.app/Capture.bundle Resources/Capture.bundle
 s357124548.597807
@@ -531,13 +758,13 @@ xResources/icons/icon@2x.png
 lSLF07#2@32"Copy Resources/icons/icon@2x.png357124548#357124548#0(0"0(0#0#78"/Applications/MAMP/htdocs/phonegapps/revolver_tabs/Resources/icons/icon@2x.png4509630096#589"    cd /Applications/MAMP/htdocs/phonegapps/revolver_tabs    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Applications/MAMP/htdocs/phonegapps/revolver_tabs/Resources/icons/icon@2x.png /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/revolver_tabs.app0#
 
 CCpResource build/Debug-iphonesimulator/revolver_tabs.app/www www
-s357129001.695468
-e357129003.310364
+s357141167.778732
+e357141168.523584
 r1
 xCpResource
 xbuild/Debug-iphonesimulator/revolver_tabs.app/www
 xwww
-lSLF07#2@8"Copy www357129001#357129003#0(0"0(0#0#54"/Applications/MAMP/htdocs/phonegapps/revolver_tabs/www4448009872#565"    cd /Applications/MAMP/htdocs/phonegapps/revolver_tabs    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Applications/MAMP/htdocs/phonegapps/revolver_tabs/www /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/revolver_tabs.app0#
+lSLF07#2@8"Copy www357141167#357141168#0(0"0(0#0#53"/Applications/MAMP/htdocs/phonegapps/tab-revolver/www4463558288#562"    cd /Applications/MAMP/htdocs/phonegapps/tab-revolver    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Applications/MAMP/htdocs/phonegapps/tab-revolver/www /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app0#
 
 CGenerateDSYMFile /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/revolver_tabs.app.dSYM /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/revolver_tabs.app/revolver_tabs
 s357124551.910347
@@ -547,6 +774,15 @@ xGenerateDSYMFile
 x/Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/revolver_tabs.app.dSYM
 x/Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/revolver_tabs.app/revolver_tabs
 lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/revolver_tabs.app.dSYM build/Debug-iphonesimulator/revolver_tabs.app/revolver_tabs357124551#357124552#0(0"0(0#0#110"/Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/revolver_tabs.app/revolver_tabs4509630096#499"    cd /Applications/MAMP/htdocs/phonegapps/revolver_tabs    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/revolver_tabs.app/revolver_tabs -o /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/revolver_tabs.app.dSYM0#
+
+CGenerateDSYMFile /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app.dSYM /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app/revolver_tabs
+s357131235.364563
+e357131235.604593
+r1
+xGenerateDSYMFile
+x/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app.dSYM
+x/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app/revolver_tabs
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/revolver_tabs.app.dSYM build/Debug-iphonesimulator/revolver_tabs.app/revolver_tabs357131235#357131235#0(0"0(0#0#109"/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app/revolver_tabs4463558288#496"    cd /Applications/MAMP/htdocs/phonegapps/tab-revolver    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app/revolver_tabs -o /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app.dSYM0#
 
 CLd /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/revolver_tabs.app/revolver_tabs normal i386
 s357124550.169870
@@ -558,6 +794,16 @@ xnormal
 xi386
 lSLF07#2@115"Link /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/revolver_tabs.app/revolver_tabs357124550#357124551#0(0"0(0#0#0"4509630096#1562"    cd /Applications/MAMP/htdocs/phonegapps/revolver_tabs    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator -F/Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator -filelist /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/Objects-normal/i386/revolver_tabs.LinkFileList -mmacosx-version-min=10.6 -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak_library /usr/lib/libSystem.B.dylib -all_load -Obj-C -Xlinker -objc_abi_version -Xlinker 2 /Users/andreaslundgren/Documents/PhoneGapLib/build/Debug-iphonesimulator/libPhoneGap.a -framework Foundation -weak_framework UIKit -framework CoreGraphics -framework AddressBook -framework AddressBookUI -framework AudioToolbox -weak_framework AVFoundation -framework CFNetwork -framework CoreLocation -framework MediaPlayer -framework QuartzCore -framework SystemConfiguration -framework MobileCoreServices -weak_framework CoreMedia -o /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/revolver_tabs.app/revolver_tabs0#
 
+CLd /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app/revolver_tabs normal i386
+s357131234.660908
+e357131235.364475
+r1
+xLd
+x/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app/revolver_tabs
+xnormal
+xi386
+lSLF07#2@114"Link /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app/revolver_tabs357131234#357131235#0(0"0(0#0#0"4463558288#1557"    cd /Applications/MAMP/htdocs/phonegapps/tab-revolver    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator -F/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator -filelist /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/Objects-normal/i386/revolver_tabs.LinkFileList -mmacosx-version-min=10.6 -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak_library /usr/lib/libSystem.B.dylib -all_load -Obj-C -Xlinker -objc_abi_version -Xlinker 2 /Users/andreaslundgren/Documents/PhoneGapLib/build/Debug-iphonesimulator/libPhoneGap.a -framework Foundation -weak_framework UIKit -framework CoreGraphics -framework AddressBook -framework AddressBookUI -framework AudioToolbox -weak_framework AVFoundation -framework CFNetwork -framework CoreLocation -framework MediaPlayer -framework QuartzCore -framework SystemConfiguration -framework MobileCoreServices -weak_framework CoreMedia -o /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app/revolver_tabs0#
+
 CPhaseScriptExecution "Touch www folder" /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/Script-304B58A110DAC018002A0835.sh
 s357129001.631705
 e357129001.694413
@@ -567,6 +813,15 @@ xTouch www folder
 x/Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/Script-304B58A110DAC018002A0835.sh
 lSLF07#2@42"Run custom shell script 'Touch www folder'357129001#357129001#0(0"0(0#0#0"4448009872#18788"    cd /Applications/MAMP/htdocs/phonegapps/revolver_tabs    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER andreaslundgren    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build    setenv BUILD_ROOT /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator    setenv CACHE_ROOT /var/folders/8v/wv_krcjx25d3d1wt8xbz_zxw0000gp/C/com.apple.Xcode.502    setenv CCHROOT /var/folders/8v/wv_krcjx25d3d1wt8xbz_zxw0000gp/C/com.apple.Xcode.502    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/revolver_tabs.app    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/8v/wv_krcjx25d3d1wt8xbz_zxw0000gp/C/com.apple.Xcode.502/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator    setenv CONFIGURATION_TEMP_DIR /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator    setenv CONTENTS_FOLDER_PATH revolver_tabs.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/DerivedSources    setenv DERIVED_FILE_DIR /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH revolver_tabs.app/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/revolver_tabs.dst    setenv DWARF_DSYM_FILE_NAME revolver_tabs.app.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn .git CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH revolver_tabs.app/Executables    setenv EXECUTABLE_FOLDER_PATH revolver_tabs.app    setenv EXECUTABLE_NAME revolver_tabs    setenv EXECUTABLE_PATH revolver_tabs.app/revolver_tabs    setenv FILE_LIST /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH revolver_tabs.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME revolver_tabs.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER revolver_tabs-Prefix.pch    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvmgcc42    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvmgcc42    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE revolver_tabs-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH revolver_tabs.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH revolver_tabs.app/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/revolver_tabs.dst/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER andreaslundgren    setenv INSTALL_PATH /Applications    setenv INSTALL_ROOT /tmp/revolver_tabs.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH revolver_tabs.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/revolver_tabs-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/Objects-normal/i386/revolver_tabs.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH revolver_tabs.app/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 11D50    setenv MAC_OS_X_VERSION_ACTUAL 1073    setenv MAC_OS_X_VERSION_MAJOR 1070    setenv MAC_OS_X_VERSION_MINOR 0703    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/Objects    setenv OBJECT_FILE_DIR_normal /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/Objects-normal    setenv OBJROOT /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak_library /usr/lib/libSystem.B.dylib -all_load -Obj-C"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH revolver_tabs.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PHONEGAPLIB /Users/andreaslundgren/Documents/PhoneGapLib    setenv PKGINFO_FILE_PATH /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/PkgInfo    setenv PKGINFO_PATH revolver_tabs.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PRODUCT_BUILD_VERSION 8F192    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 40300    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH revolver_tabs.app/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH revolver_tabs.app/PrivateHeaders    setenv PRODUCT_NAME revolver_tabs    setenv PRODUCT_SETTINGS_PATH /Applications/MAMP/htdocs/phonegapps/revolver_tabs/revolver_tabs-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT revolver_tabs    setenv PROJECT_DERIVED_FILE_DIR /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/DerivedSources    setenv PROJECT_DIR /Applications/MAMP/htdocs/phonegapps/revolver_tabs    setenv PROJECT_FILE_PATH /Applications/MAMP/htdocs/phonegapps/revolver_tabs/revolver_tabs.xcodeproj    setenv PROJECT_NAME revolver_tabs    setenv PROJECT_TEMP_DIR /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build    setenv PUBLIC_HEADERS_FOLDER_PATH revolver_tabs.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH revolver_tabs.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk    setenv SDK_NAME iphonesimulator4.3    setenv SDK_PRODUCT_BUILD_VERSION 8F192    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH revolver_tabs.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/8v/wv_krcjx25d3d1wt8xbz_zxw0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH revolver_tabs.app/SharedSupport    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Applications/MAMP/htdocs/phonegapps/revolver_tabs    setenv SRCROOT /Applications/MAMP/htdocs/phonegapps/revolver_tabs    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SYMBOL_REPOSITORY_DIR /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/SymbolRepositories    setenv SYMROOT /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1,2    setenv TARGETNAME revolver_tabs    setenv TARGET_BUILD_DIR /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator    setenv TARGET_NAME revolver_tabs    setenv TARGET_TEMP_DIR /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build    setenv TEMP_DIR /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build    setenv TEMP_FILES_DIR /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build    setenv TEMP_FILE_DIR /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build    setenv TEMP_ROOT /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build    setenv UID 502    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH revolver_tabs.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER andreaslundgren    setenv USER_APPS_DIR /Users/andreaslundgren/Applications    setenv USER_HEADER_SEARCH_PATHS "\"/Users/andreaslundgren/Documents/PhoneGapLib/Classes/JSON\" \"/Users/andreaslundgren/Documents/PhoneGapLib/Classes\""    setenv USER_LIBRARY_DIR /Users/andreaslundgren/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH revolver_tabs.app/version.plist    setenv VERSION_INFO_BUILDER andreaslundgren    setenv VERSION_INFO_FILE revolver_tabs_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:revolver_tabs  PROJECT:revolver_tabs-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME revolver_tabs.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 10M2518    setenv XCODE_VERSION_ACTUAL 0400    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0400    setenv YACC /Developer/usr/bin/yacc    setenv _REAL_SDKROOT iphoneos    /bin/sh -c /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/Script-304B58A110DAC018002A0835.sh0#
 
+CPhaseScriptExecution "Touch www folder" /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/Script-304B58A110DAC018002A0835.sh
+s357141244.863148
+e357141244.971782
+r1
+xPhaseScriptExecution
+xTouch www folder
+x/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/Script-304B58A110DAC018002A0835.sh
+lSLF07#2@42"Run custom shell script 'Touch www folder'357141244#357141244#0(0"0(0#0#0"4463558288#18744"    cd /Applications/MAMP/htdocs/phonegapps/tab-revolver    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER andreaslundgren    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Applications/MAMP/htdocs/phonegapps/tab-revolver/build    setenv BUILD_ROOT /Applications/MAMP/htdocs/phonegapps/tab-revolver/build    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator    setenv CACHE_ROOT /var/folders/8v/wv_krcjx25d3d1wt8xbz_zxw0000gp/C/com.apple.Xcode.502    setenv CCHROOT /var/folders/8v/wv_krcjx25d3d1wt8xbz_zxw0000gp/C/com.apple.Xcode.502    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/8v/wv_krcjx25d3d1wt8xbz_zxw0000gp/C/com.apple.Xcode.502/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator    setenv CONFIGURATION_TEMP_DIR /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator    setenv CONTENTS_FOLDER_PATH revolver_tabs.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/DerivedSources    setenv DERIVED_FILE_DIR /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH revolver_tabs.app/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/revolver_tabs.dst    setenv DWARF_DSYM_FILE_NAME revolver_tabs.app.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn .git CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH revolver_tabs.app/Executables    setenv EXECUTABLE_FOLDER_PATH revolver_tabs.app    setenv EXECUTABLE_NAME revolver_tabs    setenv EXECUTABLE_PATH revolver_tabs.app/revolver_tabs    setenv FILE_LIST /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH revolver_tabs.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME revolver_tabs.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER revolver_tabs-Prefix.pch    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvmgcc42    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvmgcc42    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE revolver_tabs-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH revolver_tabs.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH revolver_tabs.app/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/revolver_tabs.dst/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER andreaslundgren    setenv INSTALL_PATH /Applications    setenv INSTALL_ROOT /tmp/revolver_tabs.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH revolver_tabs.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/revolver_tabs-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/Objects-normal/i386/revolver_tabs.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH revolver_tabs.app/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 11D50    setenv MAC_OS_X_VERSION_ACTUAL 1073    setenv MAC_OS_X_VERSION_MAJOR 1070    setenv MAC_OS_X_VERSION_MINOR 0703    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/Objects    setenv OBJECT_FILE_DIR_normal /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/Objects-normal    setenv OBJROOT /Applications/MAMP/htdocs/phonegapps/tab-revolver/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak_library /usr/lib/libSystem.B.dylib -all_load -Obj-C"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH revolver_tabs.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PHONEGAPLIB /Users/andreaslundgren/Documents/PhoneGapLib    setenv PKGINFO_FILE_PATH /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/PkgInfo    setenv PKGINFO_PATH revolver_tabs.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PRODUCT_BUILD_VERSION 8F192    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 40300    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH revolver_tabs.app/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH revolver_tabs.app/PrivateHeaders    setenv PRODUCT_NAME revolver_tabs    setenv PRODUCT_SETTINGS_PATH /Applications/MAMP/htdocs/phonegapps/tab-revolver/revolver_tabs-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT revolver_tabs    setenv PROJECT_DERIVED_FILE_DIR /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/DerivedSources    setenv PROJECT_DIR /Applications/MAMP/htdocs/phonegapps/tab-revolver    setenv PROJECT_FILE_PATH /Applications/MAMP/htdocs/phonegapps/tab-revolver/revolver_tabs.xcodeproj    setenv PROJECT_NAME revolver_tabs    setenv PROJECT_TEMP_DIR /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build    setenv PUBLIC_HEADERS_FOLDER_PATH revolver_tabs.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH revolver_tabs.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk    setenv SDK_NAME iphonesimulator4.3    setenv SDK_PRODUCT_BUILD_VERSION 8F192    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH revolver_tabs.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/8v/wv_krcjx25d3d1wt8xbz_zxw0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH revolver_tabs.app/SharedSupport    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Applications/MAMP/htdocs/phonegapps/tab-revolver    setenv SRCROOT /Applications/MAMP/htdocs/phonegapps/tab-revolver    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SYMBOL_REPOSITORY_DIR /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/SymbolRepositories    setenv SYMROOT /Applications/MAMP/htdocs/phonegapps/tab-revolver/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1,2    setenv TARGETNAME revolver_tabs    setenv TARGET_BUILD_DIR /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator    setenv TARGET_NAME revolver_tabs    setenv TARGET_TEMP_DIR /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build    setenv TEMP_DIR /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build    setenv TEMP_FILES_DIR /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build    setenv TEMP_FILE_DIR /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build    setenv TEMP_ROOT /Applications/MAMP/htdocs/phonegapps/tab-revolver/build    setenv UID 502    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH revolver_tabs.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER andreaslundgren    setenv USER_APPS_DIR /Users/andreaslundgren/Applications    setenv USER_HEADER_SEARCH_PATHS "\"/Users/andreaslundgren/Documents/PhoneGapLib/Classes/JSON\" \"/Users/andreaslundgren/Documents/PhoneGapLib/Classes\""    setenv USER_LIBRARY_DIR /Users/andreaslundgren/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH revolver_tabs.app/version.plist    setenv VERSION_INFO_BUILDER andreaslundgren    setenv VERSION_INFO_FILE revolver_tabs_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:revolver_tabs  PROJECT:revolver_tabs-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME revolver_tabs.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 10M2518    setenv XCODE_VERSION_ACTUAL 0400    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0400    setenv YACC /Developer/usr/bin/yacc    setenv _REAL_SDKROOT iphoneos    /bin/sh -c /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/Script-304B58A110DAC018002A0835.sh0#
+
 CProcessInfoPlistFile /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/revolver_tabs.app/Info.plist revolver_tabs-Info.plist
 s357124548.095634
 e357124548.099916
@@ -575,6 +830,22 @@ xProcessInfoPlistFile
 x/Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/revolver_tabs.app/Info.plist
 xrevolver_tabs-Info.plist
 lSLF07#2@32"Process revolver_tabs-Info.plist357124548#357124548#0(0"0(0#0#75"/Applications/MAMP/htdocs/phonegapps/revolver_tabs/revolver_tabs-Info.plist4509630208#595"    cd /Applications/MAMP/htdocs/phonegapps/revolver_tabs    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility revolver_tabs-Info.plist -genpkginfo /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/revolver_tabs.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/revolver_tabs.app/Info.plist0#
+
+CProcessInfoPlistFile /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app/Info.plist revolver_tabs-Info.plist
+r0
+
+CProcessPCH /var/folders/8v/wv_krcjx25d3d1wt8xbz_zxw0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/revolver_tabs-Prefix-dzsssgygnjwseodugqqugrxvfirs/revolver_tabs-Prefix.pch.gch revolver_tabs-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s357131232.783396
+e357131234.366449
+r1
+xProcessPCH
+x/var/folders/8v/wv_krcjx25d3d1wt8xbz_zxw0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/revolver_tabs-Prefix-dzsssgygnjwseodugqqugrxvfirs/revolver_tabs-Prefix.pch.gch
+xrevolver_tabs-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@35"Precompile revolver_tabs-Prefix.pch357131232#357131234#0(0"0(0#0#74"/Applications/MAMP/htdocs/phonegapps/tab-revolver/revolver_tabs-Prefix.pch4463558288#2218"    cd /Applications/MAMP/htdocs/phonegapps/tab-revolver    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/revolver_tabs-generated-files.hmap -I/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/revolver_tabs-own-target-headers.hmap -I/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/revolver_tabs-all-target-headers.hmap -iquote /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/revolver_tabs-project-headers.hmap -F/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator -iquote/Users/andreaslundgren/Documents/PhoneGapLib/Classes/JSON -iquote/Users/andreaslundgren/Documents/PhoneGapLib/Classes -I/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/include -I/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/DerivedSources/i386 -I/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/revolver_tabs.build/Debug-iphonesimulator/revolver_tabs.build/DerivedSources -c /Applications/MAMP/htdocs/phonegapps/tab-revolver/revolver_tabs-Prefix.pch -o /var/folders/8v/wv_krcjx25d3d1wt8xbz_zxw0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/revolver_tabs-Prefix-dzsssgygnjwseodugqqugrxvfirs/revolver_tabs-Prefix.pch.gch0#
 
 CProcessPCH /var/folders/8v/wv_krcjx25d3d1wt8xbz_zxw0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/revolver_tabs-Prefix-fiymerawxtstrceddelmkyyxzboz/revolver_tabs-Prefix.pch.gch revolver_tabs-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
 s357124549.301568
@@ -596,4 +867,12 @@ r1
 xTouch
 x/Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/revolver_tabs.app
 lSLF07#2@102"Touch /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/revolver_tabs.app357129003#357129003#0(0"0(0#0#0"4448009872#370"    cd /Applications/MAMP/htdocs/phonegapps/revolver_tabs    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Applications/MAMP/htdocs/phonegapps/revolver_tabs/build/Debug-iphonesimulator/revolver_tabs.app0#
+
+CTouch /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app
+s357141168.524043
+e357141168.526924
+r1
+xTouch
+x/Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app
+lSLF07#2@101"Touch /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app357141168#357141168#0(0"0(0#0#0"4463558288#368"    cd /Applications/MAMP/htdocs/phonegapps/tab-revolver    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Applications/MAMP/htdocs/phonegapps/tab-revolver/build/Debug-iphonesimulator/revolver_tabs.app0#
 
