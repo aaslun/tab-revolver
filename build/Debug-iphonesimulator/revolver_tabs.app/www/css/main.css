@@ -1,0 +1,9 @@
+span.gray {
+    color: #CCC;
+}
+span.info {
+    font-style: italic;
+}
+span.center {
+    text-align: center;
+}
